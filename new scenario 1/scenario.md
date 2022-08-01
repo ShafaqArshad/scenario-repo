@@ -1,5 +1,5 @@
 title: new scenario 1
-description: understanding Docker test scenario 1 778798798789798798789789ufiodoufoihfioueoiueioejejoweiueiouoeijoiueiwjoiruoiruroirjoiruoiruowiuroiru roiurwmwriurmior
+description: understanding Docker test scenario 1
 time: 25 minutes
 steps:
   - step1.md
